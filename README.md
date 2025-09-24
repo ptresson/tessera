@@ -57,7 +57,9 @@ We are currently generating global 10m resolution embeddings, which can be direc
 
 **Access Global Embeddings:** https://github.com/ucam-eo/geotessera
 
-<span style="color:red;">We strongly recommend that you quickly review the entire tutorial before running the pipeline.</span> 
+```diff
+- We strongly recommend that you quickly review the entire tutorial before running the pipeline.
+```
 
 ## Hardware Requirements
 
